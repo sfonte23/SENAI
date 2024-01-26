@@ -1,0 +1,51 @@
+/* Estilo para o formulário */
+.simple-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  /* Estilo para rótulos */
+  .simple-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Estilo para campos de entrada e área de texto */
+  .simple-form input,
+  .simple-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Estilo para botão de envio */
+  .simple-form button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Estilizando hover no botão de envio */
+  .simple-form button:hover {
+    opacity: 0.8;
+  }
+  
+  /*teste da prova */
+  .caixa {
+    background-color: green; /* cor do fundo */   
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* fonte */    
+     font-size: 19px; /* tamanho da fonte */   
+    color: white; /* cor do conteúdo */   
+    width: 200px; /* largura */   
+    text-align: center; /* alinhamento do texto */   
+    } 
+
+  
+  .box { 
+    background-color: blue; /* cor de fundo */ 
+  } 

@@ -1,0 +1,18 @@
+/*ordem de declaração*/
+/*funciona em casacata lendo linha a linha*/
+body{
+    color:blue;
+}
+/* id tem prioridade em relação a classe e a classe tem prioridade em relação ao generalistas*/
+.amarelo{
+    color:yellow
+}
+.vermelho{
+    color:red !important
+}
+p{
+    background-color: blueviolet;
+}
+.azul .vermelho{ background-color: black;}
+
+!important /*sobrepoem ordem de declaração*/
