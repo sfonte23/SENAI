@@ -1,0 +1,25 @@
+<div id="banner-home">
+    <img src="./assets/img/banner.jpg">
+    <div class="texto-home">
+        <button mat-raised-button class="btn">Teste</button>
+        <h1>{{titulo}}</h1>
+        <p>{{texto}}!</p>
+    </div>
+</div>
+<form (ngSubmit)="onSubmit(f)" #f="ngForm">
+    <div>
+        <label for="nome">Nome:</label>
+        <input id="nome" name="nome"ngModel type="text">
+    </div>
+    <div>
+        <label for="email">E-mail:</label>
+        <input id="email" name="email"ngModel type="email">
+    </div>
+    <div>
+        <label for="senha">Senha:</label>
+        <input id="senha" name="senha"ngModel type="password">
+    </div>
+    <div>
+        <button type="submit">Salvar</button>
+    </div>
+</form>
