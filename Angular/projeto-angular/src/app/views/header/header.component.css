@@ -1,9 +1,0 @@
-.mat-toolbar-row {
-  display: flex;
-  flex-flow: row-nowrap;
-  justify-content: space-between;
-}
-
-.logo img{
-  height: 70px;
-}
