@@ -1,0 +1,21 @@
+/* Define um espaço flexível para preencher o espaço restante */
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+/* Estiliza os elementos <span> */
+span {
+  padding: 10px; /* Adiciona um preenchimento interno de 10px */
+}
+
+/* Estiliza as imagens */
+img {
+  height: 50px; /* Define a altura das imagens como 50 pixels */
+  width: 50px; /* Define a largura das imagens como 50 pixels */
+}
+
+/* Estiliza os links */
+a {
+  text-decoration: none; /* Remove a decoração padrão do link */
+  color: white; /* Define a cor do texto dos links como branco */
+}

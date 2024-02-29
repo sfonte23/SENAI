@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto; /* Define um espaço flexível que se expande para preencher o espaço restante */
+}
+
+span {
+    padding: 5px 5px; /* Adiciona espaçamento interno de 5px no topo e na base e 5px à esquerda e à direita */
+}
+
+a {
+    text-decoration: none; /* Remove a decoração de texto padrão (sublinhado) */
+    color: white; /* Define a cor do texto como branca */
+}
+
+img {
+    height: 50px; /* Define a altura da imagem como 50 pixels */
+    width: 50px; /* Define a largura da imagem como 50 pixels */
+}

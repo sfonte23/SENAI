@@ -1,0 +1,17 @@
+/* Estilo para a seção principal */
+main {
+    display: flex; /* Usa o modelo de layout flexbox */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    min-height: 700px; /* Define uma altura mínima para garantir que a seção seja visível */
+}
+
+/* Estilo para a seção de login */
+#section-login {
+    height: 100%; /* Ocupa toda a altura da seção principal */
+    width: 400px; /* Define uma largura fixa para a seção de login */
+    border-radius: 10px; /* Adiciona bordas arredondadas */
+    align-items: center;
+    border: 2px solid black; /* Adiciona uma borda sólida de 2px preta */
+    padding: 10px 20px; /* Adiciona um preenchimento interno de 10px no topo e na base, e 20px nas laterais */
+}

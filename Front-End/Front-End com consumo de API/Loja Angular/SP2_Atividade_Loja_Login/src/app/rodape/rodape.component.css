@@ -1,0 +1,7 @@
+footer {
+    background: rgba(84, 84, 219, 0.842); /* Define um fundo com cor azul semi-transparente usando RGBA */
+    color: white; /* Define a cor do texto como branco */
+    text-align: center; /* Alinha o texto ao centro */
+    height: 100px; /* Define a altura do rodapé como 100 pixels */
+    padding-top: 30px; /* Adiciona um espaço interno de 30 pixels acima do conteúdo do rodapé */
+}

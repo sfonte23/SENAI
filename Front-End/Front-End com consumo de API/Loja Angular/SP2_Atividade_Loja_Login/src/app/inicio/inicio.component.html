@@ -1,0 +1,71 @@
+<main>
+
+  <!-- Seção do banner -->
+  <section id="section-banner">
+      <!-- Carrossel de imagens -->
+      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+              <!-- Primeiro item do carrossel -->
+              <div class="carousel-item active">
+                  <img src="./assets/img/banner1.jpg" class="d-block w-100" alt="Playstation Banner">
+              </div>
+              <!-- Segundo item do carrossel -->
+              <div class="carousel-item">
+                  <img src="./assets/img/banner2.jpg" class="d-block w-100" alt="Promoções de Jogos">
+              </div>
+              <!-- Terceiro item do carrossel -->
+              <div class="carousel-item">
+                  <img src="./assets/img/banner3.jpg" class="d-block w-100" alt="Promoções Periférico">
+              </div>
+          </div>
+          <!-- Botão de controle para voltar no carrossel -->
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+              data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+          </button>
+          <!-- Botão de controle para avançar no carrossel -->
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+              data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+          </button>
+      </div>
+  </section>
+
+  <!-- Título da seção de Jogos em Promoção -->
+  <h2>Sessão em Promoção Imperdível!</h2>
+
+  <!-- Grade de lista para os produtos -->
+  <mat-grid-list cols="3">
+      <!-- Iteração sobre os produtos -->
+      <mat-grid-tile *ngFor="let produto of produtos">
+          <!-- Cartão de produto -->
+          <mat-card class="example-card">
+              <!-- Imagem do produto -->
+              <img mat-card-image src="./assets/img/{{produto.foto}}" alt="Jogo 1">
+      
+              <!-- Cabeçalho do cartão -->
+              <mat-card-header>
+                <!-- Título do produto -->
+                <mat-card-title>{{produto.produto}}</mat-card-title>
+              </mat-card-header>
+              
+              <!-- Conteúdo do cartão -->
+              <mat-card-content>
+                <!-- Descrição do produto -->
+                <p>{{produto.descricao}}</p>
+              </mat-card-content>
+              
+              <!-- Ações do cartão -->
+              <mat-card-actions>
+                <!-- Preço do produto formatado em BRL -->
+                <p>{{produto.preco | currency : 'BRL'}}</p>
+                <!-- Botão de compra -->
+                <button mat-button>Ver Mais</button>
+              </mat-card-actions>
+            </mat-card>
+      </mat-grid-tile>
+      
+  </mat-grid-list>
+</main>

@@ -1,0 +1,25 @@
+<table class="table"> <!-- Cria uma tabela com a classe "table" para estilização -->
+      <thead> <!-- Cabeçalho da tabela -->
+        <tr> <!-- Linha do cabeçalho -->
+          <th scope="col">Id</th> <!-- Cabeçalho da coluna para o ID do produto -->
+          <th scope="col">Produto</th> <!-- Cabeçalho da coluna para o nome do produto -->
+          <th scope="col">Descrição</th> <!-- Cabeçalho da coluna para a descrição do produto -->
+          <th scope="col">Foto</th> <!-- Cabeçalho da coluna para a foto do produto -->
+          <th scope="col">Preço</th> <!-- Cabeçalho da coluna para o preço do produto -->
+          <th scope="col">Editar</th> <!-- Cabeçalho da coluna para editar o produto -->
+          <th scope="col">Excluir</th> <!-- Cabeçalho da coluna para excluir o produto -->
+        </tr>
+      </thead>
+      <tbody> <!-- Corpo da tabela -->
+        <tr *ngFor="let p of produtos"> <!-- Para cada produto na lista de produtos -->
+          <th scope="row">{{p.id}}</th> <!-- Célula mostrando o ID do produto -->
+          <td>{{p.produto}}</td> <!-- Célula mostrando o nome do produto -->
+          <td>{{p.descricao}}</td> <!-- Célula mostrando a descrição do produto -->
+          <td><img mat-card-image src="./assets/img/{{p.foto}}" alt="produto"></td> <!-- Célula mostrando a foto do produto -->
+          <td>{{p.preco | currency : 'BRL'}}</td> <!-- Célula mostrando o preço do produto -->
+          <td><a class="btn btn-primary" routerLink="/restrito/editar/{{p.id}}" role="button">Editar</a></td> <!-- Botão "Editar" para redirecionar para a página de edição do produto -->
+          <td><a class="btn btn-danger" role="button" (click)="excluir(p.id)">Excluir</a></td> <!-- Botão "Excluir" para excluir o produto -->
+        </tr>
+      </tbody>
+    </table>
+    

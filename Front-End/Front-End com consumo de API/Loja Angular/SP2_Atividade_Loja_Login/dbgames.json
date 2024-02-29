@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Nintendo",
+      "descricao": "O queridinho! A partir de:",
+      "foto": "jogo1.png",
+      "preco": 300
+    },
+    {
+      "id": "2",
+      "produto": "Playstation",
+      "descricao": "Tecnologia e Exclusividade. A partir de:",
+      "foto": "jogo2.jpg",
+      "preco": 200
+    },
+    {
+      "id": "3",
+      "produto": "Xbox",
+      "descricao": "Variedade e Potência. A partir de:",
+      "foto": "jogo3.jpeg",
+      "preco": 400
+    }
+  ]
+}

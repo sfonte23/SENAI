@@ -1,0 +1,11 @@
+<mat-toolbar color="primary"> <!-- Define uma barra de ferramentas com cor primária -->
+        <mat-toolbar-row> <!-- Define uma linha na barra de ferramentas -->
+          <span><a routerLink="/restrito/lista">Listar Produtos</a></span> <!-- Cria um link para listar produtos -->
+          <span><a routerLink="/restrito/cadastro">Cadastrar Produto</a></span> <!-- Cria um link para cadastrar produtos -->
+          <span class="example-spacer"></span> <!-- Cria um espaço flexível para alinhar os elementos -->
+          <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon" (click)="logout()"> <!-- Cria um botão de ícone -->
+            <span class="material-icons">logout</span> <!-- Adiciona um ícone de logout -->
+          </button>
+        </mat-toolbar-row>
+    </mat-toolbar>
+    

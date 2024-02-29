@@ -1,0 +1,28 @@
+<main>
+    <h1>Cadastrar jogo</h1> <!-- Título da página para cadastro de jogo -->
+    <section id="section-cadastro"> <!-- Seção para o formulário de cadastro -->
+        <form> <!-- Formulário de cadastro -->
+            <label for="produto">Nome do Produto</label> <!-- Rótulo para o campo de nome do produto -->
+            <input type="text" class="form-control" name="produto" [(ngModel)]="produto.produto"> <!-- Campo de entrada para o nome do produto com binding bidirecional [(ngModel)] -->
+
+            <br>
+
+            <label for="descricao">Descrição</label> <!-- Rótulo para o campo de descrição -->
+            <input type="text" class="form-control" name="descricao" [(ngModel)]="produto.descricao"> <!-- Campo de entrada para a descrição do produto com binding bidirecional [(ngModel)] -->
+
+            <br>
+
+            <label for="foto">Foto</label> <!-- Rótulo para o campo de foto -->
+            <input type="text" class="form-control" name="foto" [(ngModel)]="produto.foto"> <!-- Campo de entrada para a URL da foto do produto com binding bidirecional [(ngModel)] -->
+
+            <br>
+
+            <label for="preco">Preço</label> <!-- Rótulo para o campo de preço -->
+            <input type="number" class="form-control" name="preco" [(ngModel)]="produto.preco"> <!-- Campo de entrada para o preço do produto com binding bidirecional [(ngModel)] -->
+
+            <br>
+
+            <button type="button" class="btn btn-primary mb-3" (click)="cadastrar()">Cadastrar</button> <!-- Botão para cadastrar o produto -->
+        </form>
+    </section>
+</main>

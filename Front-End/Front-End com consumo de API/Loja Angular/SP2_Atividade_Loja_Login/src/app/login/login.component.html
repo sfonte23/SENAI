@@ -1,0 +1,19 @@
+<main>
+  <!-- Seção de login -->
+  <section id="section-login">
+      <h2>Login</h2> <!-- Título da seção de login -->
+      <form class="row g-3"> <!-- Formulário de login -->
+          
+            <label for="staticUsuario" class="visually-hidden">Usuário</label> <!-- Rótulo para o campo de usuário -->
+            <input type="text" name="usuario" [(ngModel)]="usuario" class="form-control" id="staticUsuario" placeholder="email@exemplo.com"> <!-- Campo de entrada para o nome do usuário -->
+          
+          <br>
+          
+            <label for="inputPassword2" class="visually-hidden">Senha</label> <!-- Rótulo para o campo de senha -->
+            <input type="password" name="senha" [(ngModel)]="senha" class="form-control" id="inputPassword2" placeholder="senha"> <!-- Campo de entrada para a senha -->
+            <br>
+            <button type="submit" class="btn btn-primary mb-3" (click)="fazerLogin()">Login</button> <!-- Botão de submissão do formulário para fazer login -->
+        
+        </form>
+  </section>
+</main>

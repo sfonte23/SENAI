@@ -1,0 +1,73 @@
+/* Define a altura mínima para a seção principal */
+main {
+  min-height: 500px;
+}
+
+/* Define a altura mínima para a seção do banner */
+#section-banner {
+  min-height: 500px;
+}
+
+/* Ajusta a altura das imagens dentro da seção do banner */
+#section-banner img {
+  height: 500px;
+  width: 300px;
+}
+
+/* Estiliza o título principal */
+h2 {
+  text-align: center; /* Centraliza o texto */
+  font-size: 30px;
+  margin-top: 5px;
+  background-color: rgba(84, 84, 219, 0.842); /* Adiciona o background azul */
+  color: white; /* Define a cor do texto para branco */
+  font-family: 'Baloo 2', cursive; /* Define a fonte para Baloo 2 */
+  padding: 10px; /* Adiciona um pouco de espaço interno para o texto */
+}
+
+/* Define a largura máxima para os cartões de exemplo */
+.example-card {
+  max-width: 400px;
+}
+
+/* Define uma imagem de fundo para o cabeçalho do exemplo (não aplicado neste código HTML) */
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: auto;
+}
+
+/* Define margens para a grade de lista */
+mat-grid-list {
+  margin: 10px 0px;
+}
+
+/* Estiliza os azulejos da grade */
+mat-grid-tile {
+  padding: 2px;
+  border-radius: 30px;
+}
+
+/* Estiliza o cabeçalho do cartão */
+mat-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Estiliza as ações do cartão */
+mat-card-actions {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Estiliza o texto dentro das ações do cartão */
+mat-card-actions p {
+  color: red;
+  font-size: 30px;
+}
+
+/* Ajusta o tamanho das imagens dentro dos cartões */
+mat-card img {
+  height: 300px;
+  width: 300px;
+}

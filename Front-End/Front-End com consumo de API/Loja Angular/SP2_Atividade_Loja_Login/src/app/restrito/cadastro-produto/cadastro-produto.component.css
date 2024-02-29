@@ -1,0 +1,20 @@
+main {
+    display: flex; /* Define um display flex para o elemento main */
+    flex-direction: column; /* Define a direção dos itens como coluna */
+    justify-content: center; /* Centraliza os itens verticalmente */
+    align-items: center; /* Centraliza os itens horizontalmente */
+}
+
+h1 {
+    margin-top: 20px; /* Define uma margem superior de 20px para o elemento h1 */
+}
+
+#section-cadastro {
+    height: 100%; /* Define a altura como 100% */
+    width: 700px; /* Define a largura como 700px */
+    border-radius: 10px; /* Define um raio de borda de 10px */
+    border: 2px solid black; /* Adiciona uma borda sólida preta de 2px */
+    padding: 10px 10px; /* Adiciona um preenchimento interno de 10px na parte superior e inferior e 10px nas laterais */
+    margin-top: 50px; /* Define uma margem superior de 50px */
+    margin-bottom: 10px; /* Define uma margem inferior de 10px */
+}
