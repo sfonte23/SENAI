@@ -1,0 +1,107 @@
+{
+  "id": "894192b4-bd56-405a-875c-8bcb33ee8ca1",
+  "version": "2.0",
+  "name": "Inserir",
+  "url": "http://192.168.1.9:8080",
+  "tests": [{
+    "id": "eea688e0-0112-4686-ac1c-c2d90c913c4e",
+    "name": "Inserir",
+    "commands": [{
+      "id": "e2517887-85b7-4ac3-ba9d-ccb318bd6df7",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5a9e0904-a90b-4080-9c5b-3c91075903a7",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x720",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e43ecd55-770a-49c2-889a-d8791d6ce97d",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Cadastro",
+      "targets": [
+        ["linkText=Cadastro", "linkText"],
+        ["css=span:nth-child(2) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Cadastro')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/cadastrar')]", "xpath:href"],
+        ["xpath=//span[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Cadastro')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7ea370d8-e4d3-4458-b744-adc3f8f7ce01",
+      "comment": "",
+      "command": "click",
+      "target": "id=nome",
+      "targets": [
+        ["id=nome", "id"],
+        ["name=nome", "name"],
+        ["css=#nome", "css:finder"],
+        ["xpath=//input[@id='nome']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a37e5d13-46b8-4d12-8db1-0a11ec6ad772",
+      "comment": "",
+      "command": "type",
+      "target": "id=nome",
+      "targets": [
+        ["id=nome", "id"],
+        ["name=nome", "name"],
+        ["css=#nome", "css:finder"],
+        ["xpath=//input[@id='nome']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Sérgio"
+    }, {
+      "id": "a5dc455f-3c20-4c77-80e7-426867ef1907",
+      "comment": "",
+      "command": "type",
+      "target": "id=endereco",
+      "targets": [
+        ["id=endereco", "id"],
+        ["name=endereco", "name"],
+        ["css=#endereco", "css:finder"],
+        ["xpath=//input[@id='endereco']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "Rua dos Crisântemos"
+    }, {
+      "id": "01aa8cc9-8d69-4315-8d70-d13dd9bed9f2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Cadastrar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "48db4e98-12e7-40d8-97cf-d899b833d9b3",
+      "comment": "",
+      "command": "assertAlert",
+      "target": "Cadastro Efetuado com sucesso",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "70a15a4d-3e49-4ed1-92de-07e9ab62b330",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["eea688e0-0112-4686-ac1c-c2d90c913c4e"]
+  }],
+  "urls": ["http://192.168.1.9:8080/"],
+  "plugins": []
+}

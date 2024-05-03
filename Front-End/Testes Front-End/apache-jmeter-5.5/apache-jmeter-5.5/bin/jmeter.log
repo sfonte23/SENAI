@@ -1,0 +1,32 @@
+2024-04-08 21:03:56,998 INFO o.a.j.u.JMeterUtils: Setting Locale to pt_BR
+2024-04-08 21:03:57,016 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-04-08 21:03:57,018 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: Version 5.5
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: java.version=1.8.0_202
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: os.name=Windows 10
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: os.arch=amd64
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: os.version=10.0
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: java.awt.headless=null
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: Max memory     =1871708160
+2024-04-08 21:03:57,029 INFO o.a.j.JMeter: Available Processors =8
+2024-04-08 21:03:57,040 INFO o.a.j.JMeter: Default Locale=português (Brasil)
+2024-04-08 21:03:57,040 INFO o.a.j.JMeter: JMeter  Locale=português (Brasil)
+2024-04-08 21:03:57,040 INFO o.a.j.JMeter: JMeterHome=C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Front-End\Testes Front-End\apache-jmeter-5.5\apache-jmeter-5.5
+2024-04-08 21:03:57,040 INFO o.a.j.JMeter: user.dir  =C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Front-End\Testes Front-End\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2024-04-08 21:03:57,041 INFO o.a.j.JMeter: PWD       =C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Front-End\Testes Front-End\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2024-04-08 21:03:57,044 INFO o.a.j.JMeter: IP: 192.168.1.9 Name: CLUBBI_LENOVO_0 FullName: CLUBBI_LENOVO_0
+2024-04-08 21:03:57,074 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-04-08 21:03:57,348 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-04-08 21:04:15,709 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-04-08 21:04:15,709 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2024-04-08 21:04:15,709 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-04-08 21:04:15,709 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-04-08 21:04:21,587 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-04-08 21:04:21,587 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-04-08 21:04:21,587 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-04-08 21:04:21,587 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-04-08 21:04:21,587 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-04-08 21:04:21,587 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
