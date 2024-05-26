@@ -1,0 +1,15 @@
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\bin\Debug\net6.0\ProjetoLista.exe
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\bin\Debug\net6.0\ProjetoLista.deps.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\bin\Debug\net6.0\ProjetoLista.runtimeconfig.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\bin\Debug\net6.0\ProjetoLista.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\bin\Debug\net6.0\ProjetoLista.pdb
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.csproj.AssemblyReference.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.AssemblyInfoInputs.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.AssemblyInfo.cs
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.csproj.CoreCompileInputs.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\refint\ProjetoLista.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.pdb
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ProjetoLista.genruntimeconfig.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\ProjetoLista\obj\Debug\net6.0\ref\ProjetoLista.dll
