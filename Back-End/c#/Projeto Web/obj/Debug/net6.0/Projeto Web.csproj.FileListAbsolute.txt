@@ -1,0 +1,29 @@
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\appsettings.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\Projeto Web.exe
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\Projeto Web.deps.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\Projeto Web.runtimeconfig.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\Projeto Web.pdb
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.csproj.AssemblyReference.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.AssemblyInfoInputs.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.AssemblyInfo.cs
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.csproj.CoreCompileInputs.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\scopedcss\bundle\Projeto Web.styles.css
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\refint\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.pdb
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.genruntimeconfig.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\ref\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\Projeto Web.staticwebassets.runtime.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Debug\net6.0\Projeto Web.csproj.CopyComplete

@@ -1,0 +1,21 @@
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\appsettings.Development.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\appsettings.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\Projeto Web.exe
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\Projeto Web.deps.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\Projeto Web.runtimeconfig.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\Projeto Web.pdb
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.csproj.AssemblyReference.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.AssemblyInfoInputs.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.AssemblyInfo.cs
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.csproj.CoreCompileInputs.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\scopedcss\bundle\Projeto Web.styles.css
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\refint\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.pdb
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\Projeto Web.genruntimeconfig.cache
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\obj\Release\net6.0\ref\Projeto Web.dll

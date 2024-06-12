@@ -1,0 +1,7 @@
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\publish\Projeto Web.exe
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\publish\appsettings.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\publish\Projeto Web.dll
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\publish\Projeto Web.deps.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\publish\Projeto Web.runtimeconfig.json
+C:\Users\smfon\OneDrive\Documentos\Tecnologia\SENAI\Back-End\C#\Projeto Web\bin\Release\net6.0\publish\Projeto Web.pdb

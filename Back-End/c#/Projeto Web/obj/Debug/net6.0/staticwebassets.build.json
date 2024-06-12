@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ex8l/hzge9qq9jMBH4kTNJFMzQRwHCDDa3Ey4FkZ6jI=",
+  "Source": "Projeto Web",
+  "BasePath": "_content/Projeto Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web\\wwwroot",
+      "Source": "Projeto Web",
+      "ContentRoot": "C:\\Users\\smfon\\OneDrive\\Documentos\\Tecnologia\\SENAI\\Back-End\\C#\\Projeto Web\\wwwroot\\",
+      "BasePath": "_content/Projeto Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smfon\\OneDrive\\Documentos\\Tecnologia\\SENAI\\Back-End\\C#\\Projeto Web\\wwwroot\\produtos.html",
+      "SourceId": "Projeto Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smfon\\OneDrive\\Documentos\\Tecnologia\\SENAI\\Back-End\\C#\\Projeto Web\\wwwroot\\",
+      "BasePath": "_content/Projeto Web",
+      "RelativePath": "produtos.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\produtos.html"
+    }
+  ]
+}
